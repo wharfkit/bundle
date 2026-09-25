@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> This package lives in the WharfKit monorepo at [wharfkit/js/packages/bundle](https://github.com/wharfkit/js/tree/dev/packages/bundle), and this repository is archived. Open new issues and pull requests on [wharfkit/js](https://github.com/wharfkit/js).
+
 # @wharfkit/bundle
 
 A prepackaged bundle of common Wharf libraries re-exported for IIFE or ESM.
